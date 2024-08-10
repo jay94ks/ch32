@@ -1,5 +1,5 @@
-#ifndef __CH32V00X_PWR_H__
-#define __CH32V00X_PWR_H__
+#ifndef __CH32V00X_POWER_H__
+#define __CH32V00X_POWER_H__
 
 #include "core/riscv.h"
 #include "core/v00x.h"
